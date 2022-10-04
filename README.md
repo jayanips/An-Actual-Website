@@ -3,5 +3,5 @@
 ## Header 2
 ### Header 3
 [Link](https://www.whitneyhs.us/)
-![image1](image1.jpg "1!")
-![image2](image2.jpg "2!")
+![image a](image a.png "1!")
+![image b](image b.jpg "2!")
