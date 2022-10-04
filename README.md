@@ -1,6 +1,6 @@
 ## CSK Math Circle
 Attached is a link to the official website:
-[Link](https://cskmathcircle.org/)
+[CSKMathCircle.org](https://cskmathcircle.org/)
 # Header 1
 ## Header 2
 ### Header 3
