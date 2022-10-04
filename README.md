@@ -3,5 +3,5 @@
 ## Header 2
 ### Header 3
 [Link](https://cskmathcircle.org/)
-![image a](image a.png "1!")
-![image b](image b.jpg "2!")
+![imagea](image a.png "1")
+![imageb](image b.jpg "2")
