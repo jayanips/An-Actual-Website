@@ -6,5 +6,5 @@
     color: #fff;
     text-align: center;
     background-color: #aabdb7;
-    background-image: spiral(120deg, #c39797, #c2dcc1);
+    background-image: linear-gradient(120deg, #c39797, #c2dcc1);
 }
