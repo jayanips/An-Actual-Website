@@ -1,8 +1,5 @@
-# An-Actual-Website
 ## Welcome to My Page!
 # Header 1
 ## Header 2
 ### Header 3
-[Link](url) and ![Image](src) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![cactus](cactus.jpg "Taken at the Fullerton Arboritum on a Pixel 2!")
+[Link]([https://www.whitneyhs.us/]) and ![Image](https://github.com/jayanips/An-Actual-Website/blob/main/image1.jpg) and ![Image]([src](https://github.com/jayanips/An-Actual-Website/blob/main/image2.jpg))
